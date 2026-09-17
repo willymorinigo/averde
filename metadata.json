@@ -1,0 +1,6 @@
+{
+  "name": "Aula Verde - Granja Educativa",
+  "description": "Granja educativa e interactiva en Magdalena, Ruta 11 Km 22. 14 hectáreas de naturaleza para colegios, jardines y eventos privados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
